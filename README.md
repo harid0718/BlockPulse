@@ -77,9 +77,8 @@
 
 ## 📸 Dashboard Preview
 
-*(You can upload a screenshot here later)*
 
-![BlockPulse Dashboard Screenshot](dashboard_preview.png)
+![BlockPulse Dashboard Screenshot](Dashboard_Screenshot.png)
 
 ---
 
