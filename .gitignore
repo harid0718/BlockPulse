@@ -1,0 +1,8 @@
+# Ignore storage files
+storage/*.csv
+storage/*.duckdb
+
+# Ignore system files
+__pycache__/
+*.pyc
+.env
